@@ -1,0 +1,10 @@
+.oe_kanban_global_click .oe_kanban_bottom_prerequisites {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+}
+
+.oe_kanban_global_click .oe_kanban_bottom_prerequisites span {
+    font-weight: bold;
+    margin-right: 5px;
+}
